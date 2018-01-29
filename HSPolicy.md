@@ -3,7 +3,7 @@
 This policy helps guide people away from practices that are known to cause injury.
 Hackspace members, guests, and other space users must follow this policy.
 
-Those who do not follow this policy way may be warned, asked to leave, or banned.
+Those who do not follow this policy may be warned, asked to leave, or banned.
 
 ## Principles
 
@@ -19,13 +19,16 @@ Those who do not follow this policy way may be warned, asked to leave, or banned
 ## Rules
 ### Wear Personal Protective Equipment (PPE) where required
 * Information on what PPE is required can be found on the space wiki page for that tool
+* Sensibe use is required - protect yourself.
 
 ### Complete inductions for tools that require them 
-* Some tools are dangerous, even if they don't seem so, and require an induction before you may use them.
+* Some tools are dangerous, even if they don't seem so, and require an induction before you may use them. These are labelled.
+* If you're not sure if a tool requires an induction, ask!
 
 ### Check the state of the equipment you're about to use.
+* If it has a label saying "Do Not Use" then Do Not Use it!
 * Does it appear to be in working order?
-* Are any power cables damaged?
+* Are any power cables damaged? 
 * Are all shields in place and secured?
 * Does the emergency stop button work?
 
@@ -53,8 +56,8 @@ If you have wisdom, please add it to the wiki so others can benefit from it.
 ## Failure to follow this policy
 
 ### Quiet Word
-* Often, a quiet word with someone not following this policy is enough to remind them to follow the policy. 
-* It is better to let someone know that their behaviour is liable to break the safety rules, than for them to break them
+* Often, a quiet word with someone not following this policy is enough to remind them of the risks, and to follow the policy. 
+* It is better to let someone know that their behaviour is liable to break the policy, than for them to break them.
 
 ### Warnings
 * If someone is doing something against this policy, is likely to injure someone, or has any likelihood of seriously injuring someone, *anyone* may ask them to stop using that tool. 

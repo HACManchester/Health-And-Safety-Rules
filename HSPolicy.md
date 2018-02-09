@@ -17,6 +17,12 @@ Those who do not follow this policy may be warned, asked to leave, or banned.
     * Use the firefighting tools only if it is safe to do so, and immediately call the fire brigade.
 
 ## Rules
+
+### Wear suitable clothing
+* Wear clothing that is suitable for the area of the space you are in.
+* There may be sharp things on the floor, so wear shoes that offer some protection.
+* Some tools are especially dangerous - make sure you do not wear clothes or accessories that put you at risk.
+
 ### Wear Personal Protective Equipment (PPE) where required
 * Information on what PPE is required can be found on the space wiki page for that tool
 * Sensibe use is required - protect yourself.
